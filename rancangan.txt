@@ -1,0 +1,4 @@
+Rancangan web portofolio:
+- Home
+- Contact
+- About
